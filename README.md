@@ -37,3 +37,12 @@ I'm a DevOps and CyberSecurity student at [ITS Alto Adriatico](https://www.tecni
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
 </div>
+
+## Stats
+
+<div style="display-inline" align="center">
+  
+  ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=nullndr&theme=blue-green)
+  
+</div>
+
