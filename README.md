@@ -42,9 +42,9 @@ I'm a DevOps and CyberSecurity student at [ITS Alto Adriatico](https://www.tecni
 
 ## Stats
 
-<div style="display-inline" align="center">
+<div align="center">
   
-  ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=nullndr&theme=blue-green)
+  <img alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullndr&theme=blue-green"/>
   
 </div>
 
