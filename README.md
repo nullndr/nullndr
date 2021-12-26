@@ -37,12 +37,3 @@
   ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   
 </div>
-
-## Stats
-
-<div align="center">
-  
-  <img alt="top-lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullndr&theme=blue-green"/>
-  
-</div>
-
