@@ -8,27 +8,35 @@ I'm a Vim lover.
 
 [![Nullndr StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10503039)](https://stackoverflow.com/users/10503039/nullable)
 
-## Languages
+## Topics
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,typescript,elixir,lua,perl,zig,python,php" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,javascript,typescript,elixir,lua,perl,zig,python,php,java" />
   </a>
 </p>
-
-## Frameworks
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=alpinejs,remix" />
+    <img src="https://skillicons.dev/icons?i=mongodb,redis,sqlite,mysql,postgresql,prisma" />
   </a>
 </p>
 
-## DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=alpinejs,remix,react" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,github,gitlab" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,graphql,regex,tailwind,vim" />
   </a>
 </p>
 
