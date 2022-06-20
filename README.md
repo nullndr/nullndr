@@ -12,7 +12,7 @@ I'm a Vim lover.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,typescript,elixir,lua,perl,zig" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,rust,typescript,elixir,lua,perl,zig,python,php" />
   </a>
 </p>
 
