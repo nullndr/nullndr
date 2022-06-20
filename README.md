@@ -8,7 +8,7 @@ I'm a Vim lover.
 
 [![Nullndr StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10503039)](https://stackoverflow.com/users/10503039/nullable)
 
-## Topics
+## 🗣️ Topics
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@ I'm a Vim lover.
   </a>
 </p>
 
-## Contacts
+## 📫 Contacts
 
 <div style="display-inline" align="center">
   <a href="https://t.me/nullndr"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
