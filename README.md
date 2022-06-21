@@ -25,7 +25,7 @@ I'm a Vim lover.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=alpinejs,remix,react" />
+    <img src="https://skillicons.dev/icons?i=alpinejs,remix,react,deno,nodejs" />
   </a>
 </p>
 
