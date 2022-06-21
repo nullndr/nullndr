@@ -4,9 +4,10 @@ I'm Andrea, mainly a back-end and system italian developer.
 
 I'm a Vim lover.
 
-[![](https://skillicons.dev/icons?i=linux,raspberrypi&perline=2)](https://skillicons.dev)
-
 [![Nullndr StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10503039)](https://stackoverflow.com/users/10503039/nullable)
+
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 ## 🗣️ Topics
 
@@ -30,7 +31,7 @@ I'm a Vim lover.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,aws,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,kubernetes,docker,aws,github,gitlab" />
   </a>
 </p>
 
