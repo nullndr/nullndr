@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrea, mainly a back-end and system italian developer.
+I'm Andrea, mainly an italian back-end and system developer.
 
 I'm a Vim lover.
 
