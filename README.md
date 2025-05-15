@@ -3,7 +3,7 @@
 - I code in [TypeScript](https://www.typescriptlang.org/), [Ruby](https://www.ruby-lang.org/en/), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [Rust](https://www.rust-lang.org/) and [Elixir](https://elixir-lang.org/).
 - I'm a [Vim](https://www.vim.org/) lover!
 
-I'm migrating my work and projects to https://gitea.nullndr.com/
+I'm migrating my work and projects to https://git.nullndr.com/
 
 <p align="right">
   <a href="https://notbyai.fyi/">
